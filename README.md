@@ -4,7 +4,7 @@
 - 👯 I specialize in Generative AI, Machine Learning, and full-cycle software engineering—from ideation to deployment.
 - 🤔  Whether it's building intelligent systems, developing scalable applications, or managing agile projects
 - 💬 I bring technical expertise and strategic vision to drive innovation.
-- ⚡ Fun fact: I'm a genius
+
 
 
 ## 🌐 Socials:
