@@ -64,6 +64,15 @@ Locks your distracting apps when time runs out. Solve chess puzzles to earn minu
 <sub>React Native · Expo · Kotlin · TypeScript · SQLite</sub>
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+<a href="https://github.com/medbm5/morph"><img src="https://raw.githubusercontent.com/medbm5/morph/main/docs/assets/og.png" alt="Metamorphosis: drag a file, tap a key, drop it on the ring"></a>
+
+**[Metamorphosis (morph)](https://github.com/medbm5/morph)** · Desktop utility, Windows & Linux · [website](https://medbm5.github.io/morph/) · [download](https://github.com/medbm5/morph/releases/latest)<br>
+Drag a file, tap <kbd>Shift</kbd>, drop it on the ring. Convert and edit images, PDFs, video, audio and documents without opening an app: compress, crop, blur faces, trim video, merge PDFs, and chain steps into reusable recipes. Originals are never touched, and nothing leaves your computer.<br>
+<sub>Rust · Tauri · Free, open source, fully offline</sub>
+</td>
+</tr>
 </table>
 
 ---
